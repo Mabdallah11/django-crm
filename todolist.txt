@@ -1,0 +1,15 @@
+- DONEcreate venv install django and create project 
+- DONE base pages / templates 
+    - DONE create app for pages
+    - DONE create base templates
+    - DONE create front page 
+    - DONE create about page 
+
+- authentication
+-simple dashboard
+-create nre leads 
+-change leads to clients
+-change and delete clients
+-implement solutions for teams
+-implement a payment solution 
+-deploy (19 februart present)
