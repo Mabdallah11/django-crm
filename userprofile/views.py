@@ -11,7 +11,7 @@ def signup(request):
             user = form.save()
 
             userprofile = Userprofile.objects.create(user=user)
-
+            #userprofile.save
             return redirect('/log-in/')
     else:
         form = UserCreationForm()
