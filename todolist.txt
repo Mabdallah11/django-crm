@@ -9,11 +9,28 @@
     -DONE create database for userprofiles 
     -DONE make possible to sign up 
     -DONE to log in 
-    -to log out
--simple dashboard
--create nre leads 
+    -DONE to log out
+-DONE simple dashboard
+-create new leads 
+    -new django app
+    -database models
+    -views/forms for leads
+    -list out leads
+    -view detail of page leads 
 -change leads to clients
+-show a list of clients 
+-show a detail paage of clients
+-Add clients
 -change and delete clients
 -implement solutions for teams
+    -create teams app
+    -model for teams
+    create new teams 
+    you need to be a memeber of a team
 -implement a payment solution 
 -deploy (19 february present)
+
+
+python3 -m venv venv 
+source venv/bin/activate
+source venv/bin/activate
