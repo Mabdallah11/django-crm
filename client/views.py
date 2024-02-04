@@ -39,7 +39,7 @@ def clients_add(request):
 
             messages.success(request, 'The client was created.')
 
-            return redirect('client_list')
+            return redirect('clients_list')
     else:
         form = AddCLientForm()
 

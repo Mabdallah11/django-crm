@@ -11,22 +11,22 @@
     -DONE to log in 
     -DONE to log out
 -DONE simple dashboard
--create new leads 
-    -new django app
-    -database models
-    -views/forms for leads
-    -list out leads
-    -view detail of page leads 
--change leads to clients
--show a list of clients 
--show a detail paage of clients
--Add clients
--change and delete clients
+-DONE create new leads 
+    -DONE new django app
+    -DONE database models
+    -DONE views/forms for leads
+    -DONE list out leads
+    -DONE view detail of page leads 
+-DONE change leads to clients
+-DONE show a list of clients 
+-DONE show a detail paage of clients
+-DONE Add clients
+-DONE change and delete clients
 -implement solutions for teams
-    -create teams app
-    -model for teams
-    create new teams 
-    you need to be a memeber of a team
+    -DONE create teams app
+    -DONE model for teams
+    -create new teams 
+    -you need to be a memeber of a team
 -implement a payment solution 
 -deploy (19 february present)
 
