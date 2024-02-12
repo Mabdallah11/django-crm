@@ -1,4 +1,5 @@
 - DONEcreate venv install django and create project 
+
 - DONE base pages / templates 
     - DONE create app for pages
     - DONE create base templates
@@ -10,23 +11,39 @@
     -DONE make possible to sign up 
     -DONE to log in 
     -DONE to log out
+
 -DONE simple dashboard
+
 -DONE create new leads 
     -DONE new django app
     -DONE database models
     -DONE views/forms for leads
     -DONE list out leads
     -DONE view detail of page leads 
+
 -DONE change leads to clients
 -DONE show a list of clients 
 -DONE show a detail paage of clients
 -DONE Add clients
 -DONE change and delete clients
+
 -implement solutions for teams
     -DONE create teams app
     -DONE model for teams
     -create new teams 
     -you need to be a memeber of a team
+
+-Refactoring
+    -install tailwind instead of using the CDN 
+    -add name spaces to all apps
+    -replace the leads list with a class based views
+    -replace the leads detail with a class based views
+    -replace the leads delete with a class based views
+    -replace the leads edit with a class based views
+    -replace the leads add with a class based views
+        -give it a better name
+    -replace the leads convert with a class based views
+
 -implement a payment solution 
 -deploy (19 february present)
 
